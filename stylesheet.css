@@ -21,7 +21,7 @@ a {
   padding: 180px 0 100px 0;
   background-image: url(top.png);
   background-size: cover;
-  color: red;
+  color: white;
   text-align: center;
 }
 
@@ -60,7 +60,7 @@ a {
 
 .btn {
   padding: 8px 24px;
-  color: white;
+  color: red;
   display: inline-block;
   opacity: 0.8;
   border-radius: 4px;
